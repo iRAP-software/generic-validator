@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "3.6.*",
+        "irap/core-libs": "1.1.*",
+        "irap/migrations": "1.0",
+        "irap/autoloader": "1.0.*",
+        "irap/mysql-objects": "^3.2",
+        "irap/logging": "^1.3",
+        "irap/rabbitmq-logger": "^1.0",
+        "irap/sso-client": "^0.2.1"
+    }
+}
